@@ -1,0 +1,573 @@
+﻿YearQuarterId,YearGroupId,Year,Quarter,FailureUnit,Zone,ZoneCategory,Location,LocationCategory,Direction
+2022-Q1,G2022,2022,Q1,428,1,Low,Pays de la Loire,R,West
+2023-Q1,G2023,2023,Q1,1530,4,Very High,Provence-Alpes-Côte d'Azur,R,South East
+2014-Q2,G2014,2014,Q2,1507,4,Very High,Nouvelle-Aquitaine,R,South West
+2023-Q3,G2023,2023,Q3,1209,3,High,Provence-Alpes-Côte d'Azur,R,South East
+2023-Q3,G2023,2023,Q3,1422,4,Very High, Auvergne-Rhône-Alpes ,R,South East
+2021-Q2,G2021,2021,Q2,719,3,High, Auvergne-Rhône-Alpes ,R,South East
+2020-Q1,G2020,2020,Q1,866,3,High,Hauts-de-France,R,North
+2015-Q3,G2015,2015,Q3,1127,3,High,Hauts-de-France,R,North
+2023-Q3,G2023,2023,Q3,82,1,Low,Corse,R,South
+2014-Q3,G2014,2014,Q3,1208,3,High,Nouvelle-Aquitaine,R,South West
+2017-Q2,G2017,2017,Q2,1211,3,High,Occitanie ,R,South
+2019-Q2,G2019,2019,Q2,999,3,High,Hauts-de-France,R,North
+2015-Q3,G2015,2015,Q3,963,3,High,Grand Est ,R,North East
+2020-Q2,G2020,2020,Q2,245,1,Low,Bourgogne-Frenche-Comté,R,West
+2021-Q3,G2021,2021,Q3,370,1,Low,Grand Est ,R,North East
+2017-Q2,G2017,2017,Q2,1534,4,Very High,Provence-Alpes-Côte d'Azur,R,South East
+2016-Q4,G2016,2016,Q4,639,2,Medium, Normandie,R,North
+2023-Q1,G2023,2023,Q1,3110,4,Very High,Île-de-France,R,North Central
+2023-Q2,G2023,2023,Q2,577,2,Medium,Pays de la Loire,R,West
+2014-Q2,G2014,2014,Q2,1560,4,Very High,Occitanie ,R,South
+2018-Q3,G2018,2018,Q3,439,1,Low,Bourgogne-Frenche-Comté,R,West
+2020-Q2,G2020,2020,Q2,507,2,Medium,Occitanie ,R,South
+2017-Q3,G2017,2017,Q3,818,3,High,Hauts-de-France,R,North
+2020-Q2,G2020,2020,Q2,268,1,Low, Normandie,R,North
+2019-Q3,G2019,2019,Q3,946,3,High,Occitanie ,R,South
+2021-Q4,G2021,2021,Q4,47,1,Low,Corse,R,South
+2022-Q2,G2022,2022,Q2,869,3,High,Nouvelle-Aquitaine,R,South West
+2014-Q1,G2014,2014,Q1,867,3,High,Pays de la Loire,R,West
+2016-Q3,G2016,2016,Q3,2318,4,Very High,Île-de-France,R,North Central
+2017-Q1,G2017,2017,Q1,613,2,Medium, Bretagne,R,North West
+2020-Q1,G2020,2020,Q1,725,3,High,Grand Est ,R,North East
+2015-Q1,G2015,2015,Q1,1489,4,Very High,Hauts-de-France,R,North
+2022-Q3,G2022,2022,Q3,371,1,Low, Normandie,R,North
+2016-Q3,G2016,2016,Q3,495,2,Medium, Bretagne,R,North West
+2021-Q2,G2021,2021,Q2,32,1,Low,Corse,R,South
+2018-Q1,G2018,2018,Q1,630,2,Medium,Pays de la Loire,R,West
+2017-Q2,G2017,2017,Q2,564,2,Medium, Bretagne,R,North West
+2014-Q1,G2014,2014,Q1,1121,3,High,Grand Est ,R,North East
+2023-Q1,G2023,2023,Q1,592,2,Medium, Normandie,R,North
+2020-Q1,G2020,2020,Q1,2495,4,Very High,Île-de-France,R,North Central
+2014-Q3,G2014,2014,Q3,1416,4,Very High,Provence-Alpes-Côte d'Azur,R,South East
+2015-Q4,G2015,2015,Q4,3378,4,Very High,Île-de-France,R,North Central
+2020-Q4,G2020,2020,Q4,45,1,Low,Corse,R,South
+2021-Q2,G2021,2021,Q2,479,2,Medium,Grand Est ,R,North East
+2014-Q1,G2014,2014,Q1,1793,4,Very High,Provence-Alpes-Côte d'Azur,R,South East
+2017-Q1,G2017,2017,Q1,1214,3,High,Hauts-de-France,R,North
+2018-Q3,G2018,2018,Q3,88,1,Low,Corse,R,South
+2024-Q4,G2024,2024,Q4,0,1,Low,Corse,R,South
+2015-Q4,G2015,2015,Q4,1963,4,Very High, Auvergne-Rhône-Alpes ,R,South East
+2017-Q2,G2017,2017,Q2,1633,4,Very High, Auvergne-Rhône-Alpes ,R,South East
+2019-Q4,G2019,2019,Q4,1195,3,High,Occitanie ,R,South
+2018-Q1,G2018,2018,Q1,3134,4,Very High,Île-de-France,R,North Central
+2020-Q1,G2020,2020,Q1,1220,3,High, Auvergne-Rhône-Alpes ,R,South East
+2018-Q3,G2018,2018,Q3,1052,3,High,Provence-Alpes-Côte d'Azur,R,South East
+2023-Q1,G2023,2023,Q1,636,2,Medium,Pays de la Loire,R,West
+2024-Q2,G2024,2024,Q2,630,2,Medium, Normandie,R,North
+2021-Q4,G2021,2021,Q4,287,1,Low,Centre-Val de Loire,R,Central
+2021-Q2,G2021,2021,Q2,211,1,Low,Centre-Val de Loire,R,Central
+2017-Q4,G2017,2017,Q4,624,2,Medium, Normandie,R,North
+2022-Q4,G2022,2022,Q4,465,1,Low, Normandie,R,North
+2018-Q3,G2018,2018,Q3,1244,3,High, Auvergne-Rhône-Alpes ,R,South East
+2022-Q1,G2022,2022,Q1,39,1,Low,Corse,R,South
+2015-Q1,G2015,2015,Q1,2193,4,Very High, Auvergne-Rhône-Alpes ,R,South East
+2024-Q4,G2024,2024,Q4,0,1,Low,Pays de la Loire,R,West
+2014-Q2,G2014,2014,Q2,1238,3,High,Hauts-de-France,R,North
+2016-Q4,G2016,2016,Q4,3220,4,Very High,Île-de-France,R,North Central
+2023-Q2,G2023,2023,Q2,3158,4,Very High,Île-de-France,R,North Central
+2022-Q3,G2022,2022,Q3,310,1,Low,Centre-Val de Loire,R,Central
+2015-Q2,G2015,2015,Q2,761,3,High,Pays de la Loire,R,West
+2015-Q4,G2015,2015,Q4,1610,4,Very High,Provence-Alpes-Côte d'Azur,R,South East
+2024-Q1,G2024,2024,Q1,4219,4,Very High,Île-de-France,R,North Central
+2021-Q3,G2021,2021,Q3,185,1,Low, Normandie,R,North
+2018-Q1,G2018,2018,Q1,1276,4,Very High,Nouvelle-Aquitaine,R,South West
+2020-Q4,G2020,2020,Q4,1982,4,Very High,Île-de-France,R,North Central
+2018-Q4,G2018,2018,Q4,1672,4,Very High, Auvergne-Rhône-Alpes ,R,South East
+2015-Q2,G2015,2015,Q2,551,2,Medium,Centre-Val de Loire,R,Central
+2016-Q2,G2016,2016,Q2,507,2,Medium,Bourgogne-Frenche-Comté,R,West
+2023-Q4,G2023,2023,Q4,3677,4,Very High,Île-de-France,R,North Central
+2016-Q1,G2016,2016,Q1,655,2,Medium, Bretagne,R,North West
+2019-Q4,G2019,2019,Q4,546,2,Medium, Normandie,R,North
+2015-Q4,G2015,2015,Q4,89,1,Low,Corse,R,South
+2015-Q4,G2015,2015,Q4,733,3,High, Normandie,R,North
+2016-Q4,G2016,2016,Q4,1097,3,High,Hauts-de-France,R,North
+2016-Q4,G2016,2016,Q4,1379,4,Very High,Occitanie ,R,South
+2019-Q3,G2019,2019,Q3,843,3,High,Hauts-de-France,R,North
+2023-Q4,G2023,2023,Q4,641,2,Medium,Pays de la Loire,R,West
+2017-Q1,G2017,2017,Q1,1739,4,Very High,Provence-Alpes-Côte d'Azur,R,South East
+2016-Q4,G2016,2016,Q4,1576,4,Very High,Provence-Alpes-Côte d'Azur,R,South East
+2024-Q3,G2024,2024,Q3,79,1,Low,Corse,R,South
+2017-Q4,G2017,2017,Q4,1548,4,Very High,Provence-Alpes-Côte d'Azur,R,South East
+2022-Q1,G2022,2022,Q1,1097,3,High,Provence-Alpes-Côte d'Azur,R,South East
+2014-Q3,G2014,2014,Q3,1798,4,Very High, Auvergne-Rhône-Alpes ,R,South East
+2024-Q2,G2024,2024,Q2,1072,3,High,Grand Est ,R,North East
+2023-Q3,G2023,2023,Q3,504,2,Medium,Pays de la Loire,R,West
+2022-Q1,G2022,2022,Q1,1161,3,High, Auvergne-Rhône-Alpes ,R,South East
+2014-Q3,G2014,2014,Q3,647,2,Medium,Pays de la Loire,R,West
+2024-Q1,G2024,2024,Q1,661,2,Medium, Normandie,R,North
+2019-Q2,G2019,2019,Q2,110,1,Low,Corse,R,South
+2022-Q4,G2022,2022,Q4,484,2,Medium,Centre-Val de Loire,R,Central
+2020-Q1,G2020,2020,Q1,472,1,Low, Normandie,R,North
+2018-Q2,G2018,2018,Q2,542,2,Medium, Bretagne,R,North West
+2014-Q3,G2014,2014,Q3,568,2,Medium,Bourgogne-Frenche-Comté,R,West
+2021-Q3,G2021,2021,Q3,21,1,Low,Corse,R,South
+2015-Q4,G2015,2015,Q4,1488,4,Very High,Occitanie ,R,South
+2023-Q3,G2023,2023,Q3,865,3,High,Grand Est ,R,North East
+2015-Q3,G2015,2015,Q3,510,2,Medium,Centre-Val de Loire,R,Central
+2022-Q3,G2022,2022,Q3,768,3,High,Nouvelle-Aquitaine,R,South West
+2017-Q2,G2017,2017,Q2,98,1,Low,Corse,R,South
+2023-Q1,G2023,2023,Q1,85,1,Low,Corse,R,South
+2016-Q1,G2016,2016,Q1,646,2,Medium,Bourgogne-Frenche-Comté,R,West
+2022-Q1,G2022,2022,Q1,751,3,High,Grand Est ,R,North East
+2022-Q1,G2022,2022,Q1,2203,4,Very High,Île-de-France,R,North Central
+2014-Q4,G2014,2014,Q4,3042,4,Very High,Île-de-France,R,North Central
+2015-Q3,G2015,2015,Q3,1608,4,Very High, Auvergne-Rhône-Alpes ,R,South East
+2016-Q3,G2016,2016,Q3,1036,3,High,Nouvelle-Aquitaine,R,South West
+2014-Q3,G2014,2014,Q3,567,2,Medium, Bretagne,R,North West
+2016-Q4,G2016,2016,Q4,678,2,Medium,Pays de la Loire,R,West
+2017-Q4,G2017,2017,Q4,583,2,Medium,Pays de la Loire,R,West
+2018-Q4,G2018,2018,Q4,525,2,Medium, Bretagne,R,North West
+2024-Q3,G2024,2024,Q3,499,2,Medium,Bourgogne-Frenche-Comté,R,West
+2014-Q1,G2014,2014,Q1,1974,4,Very High, Auvergne-Rhône-Alpes ,R,South East
+2021-Q4,G2021,2021,Q4,882,3,High,Provence-Alpes-Côte d'Azur,R,South East
+2014-Q1,G2014,2014,Q1,803,3,High, Bretagne,R,North West
+2022-Q1,G2022,2022,Q1,849,3,High,Hauts-de-France,R,North
+2019-Q1,G2019,2019,Q1,1218,3,High,Grand Est ,R,North East
+2024-Q4,G2024,2024,Q4,0,1,Low,Bourgogne-Frenche-Comté,R,West
+2014-Q4,G2014,2014,Q4,552,2,Medium,Centre-Val de Loire,R,Central
+2014-Q2,G2014,2014,Q2,764,3,High, Bretagne,R,North West
+2020-Q2,G2020,2020,Q2,497,2,Medium,Hauts-de-France,R,North
+2022-Q4,G2022,2022,Q4,84,1,Low,Corse,R,South
+2024-Q2,G2024,2024,Q2,1910,4,Very High, Auvergne-Rhône-Alpes ,R,South East
+2018-Q3,G2018,2018,Q3,1021,3,High,Occitanie ,R,South
+2016-Q2,G2016,2016,Q2,1251,3,High,Nouvelle-Aquitaine,R,South West
+2018-Q4,G2018,2018,Q4,113,1,Low,Corse,R,South
+2022-Q1,G2022,2022,Q1,894,3,High,Occitanie ,R,South
+2022-Q4,G2022,2022,Q4,1110,3,High,Occitanie ,R,South
+2020-Q4,G2020,2020,Q4,296,1,Low,Bourgogne-Frenche-Comté,R,West
+2023-Q1,G2023,2023,Q1,1077,3,High,Grand Est ,R,North East
+2021-Q2,G2021,2021,Q2,217,1,Low, Normandie,R,North
+2021-Q2,G2021,2021,Q2,774,3,High,Provence-Alpes-Côte d'Azur,R,South East
+2014-Q2,G2014,2014,Q2,575,2,Medium,Bourgogne-Frenche-Comté,R,West
+2014-Q4,G2014,2014,Q4,712,3,High, Bretagne,R,North West
+2024-Q4,G2024,2024,Q4,0,1,Low, Auvergne-Rhône-Alpes ,R,South East
+2016-Q1,G2016,2016,Q1,1763,4,Very High,Provence-Alpes-Côte d'Azur,R,South East
+2016-Q3,G2016,2016,Q3,1029,3,High,Hauts-de-France,R,North
+2014-Q2,G2014,2014,Q2,2915,4,Very High,Île-de-France,R,North Central
+2024-Q1,G2024,2024,Q1,1612,4,Very High,Occitanie ,R,South
+2021-Q1,G2021,2021,Q1,553,2,Medium,Grand Est ,R,North East
+2019-Q1,G2019,2019,Q1,661,2,Medium, Normandie,R,North
+2018-Q1,G2018,2018,Q1,103,1,Low,Corse,R,South
+2016-Q2,G2016,2016,Q2,639,2,Medium, Bretagne,R,North West
+2015-Q2,G2015,2015,Q2,1209,3,High,Hauts-de-France,R,North
+2020-Q3,G2020,2020,Q3,527,2,Medium,Nouvelle-Aquitaine,R,South West
+2024-Q3,G2024,2024,Q3,544,2,Medium, Bretagne,R,North West
+2014-Q1,G2014,2014,Q1,617,2,Medium,Bourgogne-Frenche-Comté,R,West
+2018-Q4,G2018,2018,Q4,1305,4,Very High,Occitanie ,R,South
+2019-Q1,G2019,2019,Q1,1429,4,Very High,Provence-Alpes-Côte d'Azur,R,South East
+2017-Q1,G2017,2017,Q1,106,1,Low,Corse,R,South
+2024-Q4,G2024,2024,Q4,0,1,Low,Nouvelle-Aquitaine,R,South West
+2017-Q1,G2017,2017,Q1,3183,4,Very High,Île-de-France,R,North Central
+2021-Q2,G2021,2021,Q2,440,1,Low,Hauts-de-France,R,North
+2016-Q3,G2016,2016,Q3,96,1,Low,Corse,R,South
+2022-Q4,G2022,2022,Q4,494,2,Medium,Pays de la Loire,R,West
+2016-Q4,G2016,2016,Q4,1299,4,Very High,Nouvelle-Aquitaine,R,South West
+2020-Q3,G2020,2020,Q3,239,1,Low,Bourgogne-Frenche-Comté,R,West
+2017-Q2,G2017,2017,Q2,509,2,Medium,Centre-Val de Loire,R,Central
+2014-Q4,G2014,2014,Q4,1609,4,Very High,Provence-Alpes-Côte d'Azur,R,South East
+2016-Q3,G2016,2016,Q3,1017,3,High,Occitanie ,R,South
+2023-Q2,G2023,2023,Q2,992,3,High,Grand Est ,R,North East
+2018-Q3,G2018,2018,Q3,944,3,High,Nouvelle-Aquitaine,R,South West
+2015-Q3,G2015,2015,Q3,496,2,Medium,Bourgogne-Frenche-Comté,R,West
+2015-Q2,G2015,2015,Q2,1142,3,High,Grand Est ,R,North East
+2021-Q2,G2021,2021,Q2,1714,4,Very High,Île-de-France,R,North Central
+2018-Q3,G2018,2018,Q3,2360,4,Very High,Île-de-France,R,North Central
+2020-Q2,G2020,2020,Q2,31,1,Low,Corse,R,South
+2015-Q1,G2015,2015,Q1,921,3,High,Pays de la Loire,R,West
+2020-Q2,G2020,2020,Q2,256,1,Low, Bretagne,R,North West
+2017-Q2,G2017,2017,Q2,1079,3,High,Nouvelle-Aquitaine,R,South West
+2023-Q2,G2023,2023,Q2,1186,3,High,Nouvelle-Aquitaine,R,South West
+2022-Q3,G2022,2022,Q3,339,1,Low, Bretagne,R,North West
+2019-Q1,G2019,2019,Q1,518,2,Medium,Bourgogne-Frenche-Comté,R,West
+2020-Q4,G2020,2020,Q4,243,1,Low,Centre-Val de Loire,R,Central
+2020-Q2,G2020,2020,Q2,515,2,Medium,Nouvelle-Aquitaine,R,South West
+2023-Q4,G2023,2023,Q4,1551,4,Very High,Occitanie ,R,South
+2016-Q4,G2016,2016,Q4,1686,4,Very High, Auvergne-Rhône-Alpes ,R,South East
+2018-Q2,G2018,2018,Q2,1022,3,High,Grand Est ,R,North East
+2019-Q1,G2019,2019,Q1,1347,4,Very High,Nouvelle-Aquitaine,R,South West
+2015-Q3,G2015,2015,Q3,1255,3,High,Occitanie ,R,South
+2022-Q3,G2022,2022,Q3,366,1,Low,Pays de la Loire,R,West
+2024-Q3,G2024,2024,Q3,417,1,Low,Centre-Val de Loire,R,Central
+2023-Q3,G2023,2023,Q3,447,1,Low, Normandie,R,North
+2023-Q2,G2023,2023,Q2,1381,4,Very High,Provence-Alpes-Côte d'Azur,R,South East
+2014-Q2,G2014,2014,Q2,1132,3,High,Grand Est ,R,North East
+2024-Q2,G2024,2024,Q2,1637,4,Very High,Provence-Alpes-Côte d'Azur,R,South East
+2015-Q2,G2015,2015,Q2,97,1,Low,Corse,R,South
+2014-Q1,G2014,2014,Q1,1427,4,Very High,Hauts-de-France,R,North
+2024-Q1,G2024,2024,Q1,1192,3,High,Grand Est ,R,North East
+2024-Q1,G2024,2024,Q1,668,2,Medium, Bretagne,R,North West
+2024-Q1,G2024,2024,Q1,595,2,Medium,Bourgogne-Frenche-Comté,R,West
+2021-Q1,G2021,2021,Q1,229,1,Low,Bourgogne-Frenche-Comté,R,West
+2023-Q1,G2023,2023,Q1,1311,4,Very High,Occitanie ,R,South
+2022-Q2,G2022,2022,Q2,869,3,High,Occitanie ,R,South
+2015-Q3,G2015,2015,Q3,698,2,Medium,Pays de la Loire,R,West
+2023-Q3,G2023,2023,Q3,1048,3,High,Occitanie ,R,South
+2017-Q3,G2017,2017,Q3,525,2,Medium,Pays de la Loire,R,West
+2017-Q1,G2017,2017,Q1,744,3,High,Pays de la Loire,R,West
+2020-Q3,G2020,2020,Q3,197,1,Low,Centre-Val de Loire,R,Central
+2015-Q2,G2015,2015,Q2,1768,4,Very High, Auvergne-Rhône-Alpes ,R,South East
+2021-Q1,G2021,2021,Q1,264,1,Low, Bretagne,R,North West
+2023-Q4,G2023,2023,Q4,636,2,Medium, Bretagne,R,North West
+2019-Q2,G2019,2019,Q2,961,3,High,Grand Est ,R,North East
+2020-Q3,G2020,2020,Q3,294,1,Low, Normandie,R,North
+2021-Q1,G2021,2021,Q1,279,1,Low,Centre-Val de Loire,R,Central
+2020-Q4,G2020,2020,Q4,690,2,Medium,Occitanie ,R,South
+2014-Q1,G2014,2014,Q1,1745,4,Very High,Occitanie ,R,South
+2019-Q4,G2019,2019,Q4,512,2,Medium,Bourgogne-Frenche-Comté,R,West
+2014-Q2,G2014,2014,Q2,1821,4,Very High, Auvergne-Rhône-Alpes ,R,South East
+2021-Q3,G2021,2021,Q3,211,1,Low,Bourgogne-Frenche-Comté,R,West
+2017-Q3,G2017,2017,Q3,429,1,Low, Bretagne,R,North West
+2018-Q4,G2018,2018,Q4,1113,3,High,Hauts-de-France,R,North
+2020-Q3,G2020,2020,Q3,1551,4,Very High,Île-de-France,R,North Central
+2020-Q1,G2020,2020,Q1,75,1,Low,Corse,R,South
+2023-Q1,G2023,2023,Q1,1681,4,Very High, Auvergne-Rhône-Alpes ,R,South East
+2017-Q3,G2017,2017,Q3,910,3,High,Nouvelle-Aquitaine,R,South West
+2017-Q4,G2017,2017,Q4,1105,3,High,Nouvelle-Aquitaine,R,South West
+2021-Q1,G2021,2021,Q1,495,2,Medium,Hauts-de-France,R,North
+2022-Q4,G2022,2022,Q4,499,2,Medium, Bretagne,R,North West
+2022-Q2,G2022,2022,Q2,53,1,Low,Corse,R,South
+2023-Q1,G2023,2023,Q1,1333,4,Very High,Nouvelle-Aquitaine,R,South West
+2021-Q3,G2021,2021,Q3,1259,4,Very High,Île-de-France,R,North Central
+2016-Q1,G2016,2016,Q1,1590,4,Very High,Occitanie ,R,South
+2022-Q4,G2022,2022,Q4,1225,3,High,Provence-Alpes-Côte d'Azur,R,South East
+2016-Q1,G2016,2016,Q1,104,1,Low,Corse,R,South
+2018-Q4,G2018,2018,Q4,3446,4,Very High,Île-de-France,R,North Central
+2018-Q2,G2018,2018,Q2,481,2,Medium,Bourgogne-Frenche-Comté,R,West
+2018-Q4,G2018,2018,Q4,529,2,Medium,Centre-Val de Loire,R,Central
+2019-Q4,G2019,2019,Q4,451,1,Low,Centre-Val de Loire,R,Central
+2014-Q3,G2014,2014,Q3,1282,4,Very High,Occitanie ,R,South
+2015-Q2,G2015,2015,Q2,1537,4,Very High,Provence-Alpes-Côte d'Azur,R,South East
+2021-Q1,G2021,2021,Q1,42,1,Low,Corse,R,South
+2024-Q1,G2024,2024,Q1,1893,4,Very High,Provence-Alpes-Côte d'Azur,R,South East
+2017-Q2,G2017,2017,Q2,616,2,Medium, Normandie,R,North
+2017-Q1,G2017,2017,Q1,1389,4,Very High,Nouvelle-Aquitaine,R,South West
+2015-Q2,G2015,2015,Q2,1305,4,Very High,Occitanie ,R,South
+2019-Q4,G2019,2019,Q4,910,3,High,Grand Est ,R,North East
+2020-Q2,G2020,2020,Q2,445,1,Low,Grand Est ,R,North East
+2018-Q4,G2018,2018,Q4,1085,3,High,Grand Est ,R,North East
+2023-Q4,G2023,2023,Q4,1736,4,Very High,Provence-Alpes-Côte d'Azur,R,South East
+2014-Q4,G2014,2014,Q4,1458,4,Very High,Nouvelle-Aquitaine,R,South West
+2016-Q2,G2016,2016,Q2,1237,3,High,Hauts-de-France,R,North
+2021-Q4,G2021,2021,Q4,326,1,Low, Normandie,R,North
+2019-Q1,G2019,2019,Q1,1282,4,Very High,Occitanie ,R,South
+2022-Q2,G2022,2022,Q2,417,1,Low,Pays de la Loire,R,West
+2017-Q1,G2017,2017,Q1,557,2,Medium,Bourgogne-Frenche-Comté,R,West
+2016-Q4,G2016,2016,Q4,114,1,Low,Corse,R,South
+2017-Q2,G2017,2017,Q2,2871,4,Very High,Île-de-France,R,North Central
+2018-Q2,G2018,2018,Q2,1254,3,High,Provence-Alpes-Côte d'Azur,R,South East
+2022-Q3,G2022,2022,Q3,964,3,High,Provence-Alpes-Côte d'Azur,R,South East
+2017-Q3,G2017,2017,Q3,76,1,Low,Corse,R,South
+2018-Q4,G2018,2018,Q4,1403,4,Very High,Provence-Alpes-Côte d'Azur,R,South East
+2024-Q4,G2024,2024,Q4,0,1,Low,Provence-Alpes-Côte d'Azur,R,South East
+2024-Q3,G2024,2024,Q3,1252,3,High,Nouvelle-Aquitaine,R,South West
+2020-Q2,G2020,2020,Q2,616,2,Medium, Auvergne-Rhône-Alpes ,R,South East
+2019-Q1,G2019,2019,Q1,3098,4,Very High,Île-de-France,R,North Central
+2019-Q4,G2019,2019,Q4,100,1,Low,Corse,R,South
+2015-Q3,G2015,2015,Q3,56,1,Low,Corse,R,South
+2020-Q1,G2020,2020,Q1,429,1,Low,Pays de la Loire,R,West
+2015-Q2,G2015,2015,Q2,3212,4,Very High,Île-de-France,R,North Central
+2022-Q1,G2022,2022,Q1,317,1,Low,Centre-Val de Loire,R,Central
+2021-Q3,G2021,2021,Q3,572,2,Medium, Auvergne-Rhône-Alpes ,R,South East
+2021-Q3,G2021,2021,Q3,194,1,Low, Bretagne,R,North West
+2020-Q2,G2020,2020,Q2,564,2,Medium,Provence-Alpes-Côte d'Azur,R,South East
+2023-Q4,G2023,2023,Q4,579,2,Medium,Centre-Val de Loire,R,Central
+2019-Q3,G2019,2019,Q3,394,1,Low, Bretagne,R,North West
+2019-Q3,G2019,2019,Q3,62,1,Low,Corse,R,South
+2020-Q1,G2020,2020,Q1,454,1,Low,Bourgogne-Frenche-Comté,R,West
+2017-Q4,G2017,2017,Q4,1355,4,Very High,Occitanie ,R,South
+2019-Q4,G2019,2019,Q4,3029,4,Very High,Île-de-France,R,North Central
+2023-Q3,G2023,2023,Q3,467,1,Low,Bourgogne-Frenche-Comté,R,West
+2019-Q4,G2019,2019,Q4,525,2,Medium, Bretagne,R,North West
+2022-Q3,G2022,2022,Q3,54,1,Low,Corse,R,South
+2021-Q1,G2021,2021,Q1,616,2,Medium,Occitanie ,R,South
+2015-Q1,G2015,2015,Q1,1407,4,Very High,Grand Est ,R,North East
+2019-Q3,G2019,2019,Q3,825,3,High,Grand Est ,R,North East
+2023-Q3,G2023,2023,Q3,425,1,Low,Centre-Val de Loire,R,Central
+2016-Q3,G2016,2016,Q3,411,1,Low,Bourgogne-Frenche-Comté,R,West
+2022-Q3,G2022,2022,Q3,616,2,Medium,Grand Est ,R,North East
+2020-Q1,G2020,2020,Q1,1085,3,High,Provence-Alpes-Côte d'Azur,R,South East
+2014-Q3,G2014,2014,Q3,642,2,Medium, Normandie,R,North
+2021-Q4,G2021,2021,Q4,901,3,High, Auvergne-Rhône-Alpes ,R,South East
+2021-Q4,G2021,2021,Q4,316,1,Low, Bretagne,R,North West
+2016-Q2,G2016,2016,Q2,139,1,Low,Corse,R,South
+2022-Q1,G2022,2022,Q1,367,1,Low,Bourgogne-Frenche-Comté,R,West
+2016-Q1,G2016,2016,Q1,1973,4,Very High, Auvergne-Rhône-Alpes ,R,South East
+2024-Q1,G2024,2024,Q1,1494,4,Very High,Nouvelle-Aquitaine,R,South West
+2024-Q2,G2024,2024,Q2,1123,3,High,Hauts-de-France,R,North
+2016-Q3,G2016,2016,Q3,518,2,Medium, Normandie,R,North
+2020-Q3,G2020,2020,Q3,819,3,High,Provence-Alpes-Côte d'Azur,R,South East
+2018-Q1,G2018,2018,Q1,1526,4,Very High,Provence-Alpes-Côte d'Azur,R,South East
+2015-Q1,G2015,2015,Q1,782,3,High, Bretagne,R,North West
+2022-Q4,G2022,2022,Q4,1436,4,Very High, Auvergne-Rhône-Alpes ,R,South East
+2015-Q3,G2015,2015,Q3,1341,4,Very High,Provence-Alpes-Côte d'Azur,R,South East
+2015-Q1,G2015,2015,Q1,2025,4,Very High,Provence-Alpes-Côte d'Azur,R,South East
+2019-Q2,G2019,2019,Q2,554,2,Medium,Pays de la Loire,R,West
+2024-Q2,G2024,2024,Q2,1351,4,Very High,Occitanie ,R,South
+2024-Q2,G2024,2024,Q2,112,1,Low,Corse,R,South
+2021-Q2,G2021,2021,Q2,209,1,Low, Bretagne,R,North West
+2019-Q2,G2019,2019,Q2,1061,3,High,Nouvelle-Aquitaine,R,South West
+2024-Q4,G2024,2024,Q4,0,1,Low, Bretagne,R,North West
+2024-Q1,G2024,2024,Q1,1261,4,Very High,Hauts-de-France,R,North
+2019-Q3,G2019,2019,Q3,1111,3,High,Provence-Alpes-Côte d'Azur,R,South East
+2016-Q4,G2016,2016,Q4,486,2,Medium,Bourgogne-Frenche-Comté,R,West
+2016-Q4,G2016,2016,Q4,540,2,Medium, Bretagne,R,North West
+2021-Q1,G2021,2021,Q1,316,1,Low,Pays de la Loire,R,West
+2020-Q3,G2020,2020,Q3,271,1,Low, Bretagne,R,North West
+2024-Q3,G2024,2024,Q3,1278,4,Very High,Occitanie ,R,South
+2014-Q2,G2014,2014,Q2,561,2,Medium,Centre-Val de Loire,R,Central
+2019-Q4,G2019,2019,Q4,1592,4,Very High, Auvergne-Rhône-Alpes ,R,South East
+2014-Q4,G2014,2014,Q4,1290,4,Very High,Hauts-de-France,R,North
+2015-Q1,G2015,2015,Q1,3552,4,Very High,Île-de-France,R,North Central
+2016-Q2,G2016,2016,Q2,531,2,Medium,Centre-Val de Loire,R,Central
+2019-Q1,G2019,2019,Q1,508,2,Medium,Centre-Val de Loire,R,Central
+2020-Q3,G2020,2020,Q3,510,2,Medium,Hauts-de-France,R,North
+2016-Q2,G2016,2016,Q2,3370,4,Very High,Île-de-France,R,North Central
+2015-Q1,G2015,2015,Q1,1704,4,Very High,Nouvelle-Aquitaine,R,South West
+2018-Q1,G2018,2018,Q1,461,1,Low,Centre-Val de Loire,R,Central
+2022-Q3,G2022,2022,Q3,824,3,High,Occitanie ,R,South
+2022-Q1,G2022,2022,Q1,865,3,High,Nouvelle-Aquitaine,R,South West
+2016-Q1,G2016,2016,Q1,1323,4,Very High,Grand Est ,R,North East
+2017-Q3,G2017,2017,Q3,392,1,Low,Centre-Val de Loire,R,Central
+2014-Q4,G2014,2014,Q4,582,2,Medium,Bourgogne-Frenche-Comté,R,West
+2015-Q4,G2015,2015,Q4,1206,3,High,Grand Est ,R,North East
+2015-Q4,G2015,2015,Q4,743,3,High,Pays de la Loire,R,West
+2021-Q3,G2021,2021,Q3,202,1,Low,Centre-Val de Loire,R,Central
+2024-Q3,G2024,2024,Q3,1560,4,Very High, Auvergne-Rhône-Alpes ,R,South East
+2017-Q3,G2017,2017,Q3,2250,4,Very High,Île-de-France,R,North Central
+2016-Q3,G2016,2016,Q3,370,1,Low,Centre-Val de Loire,R,Central
+2024-Q2,G2024,2024,Q2,555,2,Medium,Centre-Val de Loire,R,Central
+2018-Q4,G2018,2018,Q4,669,2,Medium,Pays de la Loire,R,West
+2015-Q1,G2015,2015,Q1,706,2,Medium,Bourgogne-Frenche-Comté,R,West
+2014-Q2,G2014,2014,Q2,1554,4,Very High,Provence-Alpes-Côte d'Azur,R,South East
+2018-Q1,G2018,2018,Q1,674,2,Medium, Normandie,R,North
+2014-Q3,G2014,2014,Q3,2506,4,Very High,Île-de-France,R,North Central
+2020-Q4,G2020,2020,Q4,304,1,Low, Bretagne,R,North West
+2018-Q3,G2018,2018,Q3,930,3,High,Grand Est ,R,North East
+2023-Q2,G2023,2023,Q2,1550,4,Very High, Auvergne-Rhône-Alpes ,R,South East
+2023-Q4,G2023,2023,Q4,1317,4,Very High,Hauts-de-France,R,North
+2019-Q3,G2019,2019,Q3,434,1,Low, Normandie,R,North
+2024-Q4,G2024,2024,Q4,0,1,Low, Normandie,R,North
+2017-Q3,G2017,2017,Q3,835,3,High,Grand Est ,R,North East
+2021-Q4,G2021,2021,Q4,641,2,Medium,Occitanie ,R,South
+2014-Q4,G2014,2014,Q4,1281,4,Very High,Grand Est ,R,North East
+2022-Q2,G2022,2022,Q2,380,1,Low,Bourgogne-Frenche-Comté,R,West
+2015-Q2,G2015,2015,Q2,624,2,Medium, Bretagne,R,North West
+2023-Q1,G2023,2023,Q1,1160,3,High,Hauts-de-France,R,North
+2022-Q2,G2022,2022,Q2,1069,3,High,Provence-Alpes-Côte d'Azur,R,South East
+2020-Q2,G2020,2020,Q2,211,1,Low,Centre-Val de Loire,R,Central
+2014-Q4,G2014,2014,Q4,2040,4,Very High, Auvergne-Rhône-Alpes ,R,South East
+2022-Q4,G2022,2022,Q4,384,1,Low,Bourgogne-Frenche-Comté,R,West
+2015-Q3,G2015,2015,Q3,628,2,Medium, Normandie,R,North
+2018-Q1,G2018,2018,Q1,508,2,Medium,Bourgogne-Frenche-Comté,R,West
+2023-Q2,G2023,2023,Q2,485,2,Medium, Normandie,R,North
+2016-Q1,G2016,2016,Q1,722,3,High, Normandie,R,North
+2015-Q4,G2015,2015,Q4,597,2,Medium,Bourgogne-Frenche-Comté,R,West
+2015-Q1,G2015,2015,Q1,103,1,Low,Corse,R,South
+2022-Q4,G2022,2022,Q4,1096,3,High,Nouvelle-Aquitaine,R,South West
+2016-Q3,G2016,2016,Q3,1156,3,High,Provence-Alpes-Côte d'Azur,R,South East
+2024-Q2,G2024,2024,Q2,557,2,Medium,Bourgogne-Frenche-Comté,R,West
+2019-Q4,G2019,2019,Q4,554,2,Medium,Pays de la Loire,R,West
+2021-Q1,G2021,2021,Q1,1863,4,Very High,Île-de-France,R,North Central
+2019-Q3,G2019,2019,Q3,389,1,Low,Centre-Val de Loire,R,Central
+2024-Q3,G2024,2024,Q3,934,3,High,Grand Est ,R,North East
+2020-Q1,G2020,2020,Q1,431,1,Low, Bretagne,R,North West
+2024-Q4,G2024,2024,Q4,0,1,Low,Hauts-de-France,R,North
+2016-Q2,G2016,2016,Q2,677,2,Medium, Normandie,R,North
+2023-Q1,G2023,2023,Q1,593,2,Medium, Bretagne,R,North West
+2020-Q3,G2020,2020,Q3,293,1,Low,Pays de la Loire,R,West
+2017-Q3,G2017,2017,Q3,967,3,High,Occitanie ,R,South
+2018-Q3,G2018,2018,Q3,457,1,Low, Bretagne,R,North West
+2016-Q3,G2016,2016,Q3,544,2,Medium,Pays de la Loire,R,West
+2014-Q2,G2014,2014,Q2,695,2,Medium, Normandie,R,North
+2014-Q4,G2014,2014,Q4,735,3,High, Normandie,R,North
+2017-Q4,G2017,2017,Q4,977,3,High,Grand Est ,R,North East
+2024-Q2,G2024,2024,Q2,1491,4,Very High,Nouvelle-Aquitaine,R,South West
+2022-Q2,G2022,2022,Q2,1104,3,High, Auvergne-Rhône-Alpes ,R,South East
+2015-Q2,G2015,2015,Q2,689,2,Medium, Normandie,R,North
+2018-Q3,G2018,2018,Q3,407,1,Low,Centre-Val de Loire,R,Central
+2019-Q3,G2019,2019,Q3,878,3,High,Nouvelle-Aquitaine,R,South West
+2022-Q2,G2022,2022,Q2,2197,4,Very High,Île-de-France,R,North Central
+2020-Q4,G2020,2020,Q4,932,3,High,Provence-Alpes-Côte d'Azur,R,South East
+2020-Q1,G2020,2020,Q1,852,3,High,Occitanie ,R,South
+2016-Q2,G2016,2016,Q2,1352,4,Very High,Occitanie ,R,South
+2021-Q1,G2021,2021,Q1,802,3,High,Provence-Alpes-Côte d'Azur,R,South East
+2015-Q2,G2015,2015,Q2,1365,4,Very High,Nouvelle-Aquitaine,R,South West
+2021-Q4,G2021,2021,Q4,625,2,Medium,Nouvelle-Aquitaine,R,South West
+2018-Q2,G2018,2018,Q2,467,1,Low,Centre-Val de Loire,R,Central
+2017-Q4,G2017,2017,Q4,131,1,Low,Corse,R,South
+2021-Q2,G2021,2021,Q2,537,2,Medium,Occitanie ,R,South
+2024-Q1,G2024,2024,Q1,635,2,Medium,Centre-Val de Loire,R,Central
+2023-Q2,G2023,2023,Q2,1291,4,Very High,Occitanie ,R,South
+2024-Q4,G2024,2024,Q4,0,1,Low,Île-de-France,R,North Central
+2020-Q3,G2020,2020,Q3,44,1,Low,Corse,R,South
+2022-Q3,G2022,2022,Q3,893,3,High,Hauts-de-France,R,North
+2015-Q1,G2015,2015,Q1,1853,4,Very High,Occitanie ,R,South
+2015-Q1,G2015,2015,Q1,802,3,High, Normandie,R,North
+2024-Q1,G2024,2024,Q1,121,1,Low,Corse,R,South
+2018-Q1,G2018,2018,Q1,1130,3,High,Hauts-de-France,R,North
+2018-Q1,G2018,2018,Q1,1066,3,High,Grand Est ,R,North East
+2021-Q2,G2021,2021,Q2,269,1,Low,Pays de la Loire,R,West
+2024-Q3,G2024,2024,Q3,548,2,Medium, Normandie,R,North
+2023-Q4,G2023,2023,Q4,118,1,Low,Corse,R,South
+2017-Q2,G2017,2017,Q2,478,2,Medium,Bourgogne-Frenche-Comté,R,West
+2023-Q2,G2023,2023,Q2,85,1,Low,Corse,R,South
+2024-Q3,G2024,2024,Q3,564,2,Medium,Pays de la Loire,R,West
+2018-Q4,G2018,2018,Q4,502,2,Medium,Bourgogne-Frenche-Comté,R,West
+2022-Q2,G2022,2022,Q2,717,3,High,Grand Est ,R,North East
+2018-Q2,G2018,2018,Q2,1100,3,High,Occitanie ,R,South
+2019-Q1,G2019,2019,Q1,1629,4,Very High, Auvergne-Rhône-Alpes ,R,South East
+2014-Q1,G2014,2014,Q1,96,1,Low,Corse,R,South
+2019-Q1,G2019,2019,Q1,629,2,Medium,Pays de la Loire,R,West
+2023-Q4,G2023,2023,Q4,654,2,Medium, Normandie,R,North
+2023-Q4,G2023,2023,Q4,1399,4,Very High,Nouvelle-Aquitaine,R,South West
+2021-Q4,G2021,2021,Q4,1837,4,Very High,Île-de-France,R,North Central
+2022-Q4,G2022,2022,Q4,2545,4,Very High,Île-de-France,R,North Central
+2024-Q3,G2024,2024,Q3,1062,3,High,Hauts-de-France,R,North
+2022-Q4,G2022,2022,Q4,928,3,High,Hauts-de-France,R,North
+2023-Q1,G2023,2023,Q1,556,2,Medium,Centre-Val de Loire,R,Central
+2018-Q3,G2018,2018,Q3,916,3,High,Hauts-de-France,R,North
+2024-Q1,G2024,2024,Q1,745,3,High,Pays de la Loire,R,West
+2018-Q3,G2018,2018,Q3,513,2,Medium, Normandie,R,North
+2019-Q3,G2019,2019,Q3,2126,4,Very High,Île-de-France,R,North Central
+2020-Q3,G2020,2020,Q3,544,2,Medium,Grand Est ,R,North East
+2016-Q1,G2016,2016,Q1,790,3,High,Pays de la Loire,R,West
+2017-Q4,G2017,2017,Q4,599,2,Medium, Bretagne,R,North West
+2015-Q4,G2015,2015,Q4,1392,4,Very High,Nouvelle-Aquitaine,R,South West
+2020-Q1,G2020,2020,Q1,351,1,Low,Centre-Val de Loire,R,Central
+2014-Q1,G2014,2014,Q1,755,3,High, Normandie,R,North
+2018-Q3,G2018,2018,Q3,485,2,Medium,Pays de la Loire,R,West
+2024-Q2,G2024,2024,Q2,650,2,Medium,Pays de la Loire,R,West
+2017-Q4,G2017,2017,Q4,506,2,Medium,Bourgogne-Frenche-Comté,R,West
+2023-Q4,G2023,2023,Q4,1131,3,High,Grand Est ,R,North East
+2017-Q3,G2017,2017,Q3,1165,3,High,Provence-Alpes-Côte d'Azur,R,South East
+2016-Q3,G2016,2016,Q3,1418,4,Very High, Auvergne-Rhône-Alpes ,R,South East
+2019-Q1,G2019,2019,Q1,1108,3,High,Hauts-de-France,R,North
+2023-Q2,G2023,2023,Q2,1014,3,High,Hauts-de-France,R,North
+2018-Q2,G2018,2018,Q2,89,1,Low,Corse,R,South
+2017-Q1,G2017,2017,Q1,1460,4,Very High,Occitanie ,R,South
+2021-Q3,G2021,2021,Q3,202,1,Low,Pays de la Loire,R,West
+2018-Q1,G2018,2018,Q1,1277,4,Very High,Occitanie ,R,South
+2015-Q1,G2015,2015,Q1,703,2,Medium,Centre-Val de Loire,R,Central
+2022-Q2,G2022,2022,Q2,880,3,High,Hauts-de-France,R,North
+2021-Q2,G2021,2021,Q2,247,1,Low,Bourgogne-Frenche-Comté,R,West
+2016-Q1,G2016,2016,Q1,620,2,Medium,Centre-Val de Loire,R,Central
+2021-Q1,G2021,2021,Q1,614,2,Medium,Nouvelle-Aquitaine,R,South West
+2019-Q3,G2019,2019,Q3,474,2,Medium,Pays de la Loire,R,West
+2019-Q2,G2019,2019,Q2,481,2,Medium,Bourgogne-Frenche-Comté,R,West
+2020-Q2,G2020,2020,Q2,1232,3,High,Île-de-France,R,North Central
+2019-Q2,G2019,2019,Q2,1472,4,Very High, Auvergne-Rhône-Alpes ,R,South East
+2022-Q2,G2022,2022,Q2,384,1,Low,Centre-Val de Loire,R,Central
+2016-Q1,G2016,2016,Q1,1344,4,Very High,Hauts-de-France,R,North
+2016-Q2,G2016,2016,Q2,1742,4,Very High, Auvergne-Rhône-Alpes ,R,South East
+2021-Q3,G2021,2021,Q3,434,1,Low,Occitanie ,R,South
+2023-Q2,G2023,2023,Q2,474,2,Medium,Centre-Val de Loire,R,Central
+2017-Q3,G2017,2017,Q3,431,1,Low,Bourgogne-Frenche-Comté,R,West
+2016-Q2,G2016,2016,Q2,661,2,Medium,Pays de la Loire,R,West
+2021-Q1,G2021,2021,Q1,830,3,High, Auvergne-Rhône-Alpes ,R,South East
+2014-Q1,G2014,2014,Q1,1558,4,Very High,Nouvelle-Aquitaine,R,South West
+2018-Q1,G2018,2018,Q1,1702,4,Very High, Auvergne-Rhône-Alpes ,R,South East
+2017-Q1,G2017,2017,Q1,1272,4,Very High,Grand Est ,R,North East
+2020-Q4,G2020,2020,Q4,565,2,Medium,Grand Est ,R,North East
+2021-Q3,G2021,2021,Q3,688,2,Medium,Provence-Alpes-Côte d'Azur,R,South East
+2014-Q1,G2014,2014,Q1,3261,4,Very High,Île-de-France,R,North Central
+2020-Q3,G2020,2020,Q3,585,2,Medium,Occitanie ,R,South
+2024-Q3,G2024,2024,Q3,3063,4,Very High,Île-de-France,R,North Central
+2023-Q1,G2023,2023,Q1,551,2,Medium,Bourgogne-Frenche-Comté,R,West
+2020-Q4,G2020,2020,Q4,299,1,Low, Normandie,R,North
+2016-Q3,G2016,2016,Q3,852,3,High,Grand Est ,R,North East
+2023-Q2,G2023,2023,Q2,441,1,Low,Bourgogne-Frenche-Comté,R,West
+2024-Q2,G2024,2024,Q2,595,2,Medium, Bretagne,R,North West
+2018-Q2,G2018,2018,Q2,1100,3,High,Hauts-de-France,R,North
+2018-Q2,G2018,2018,Q2,1100,3,High,Nouvelle-Aquitaine,R,South West
+2024-Q4,G2024,2024,Q4,0,1,Low,Grand Est ,R,North East
+2019-Q4,G2019,2019,Q4,1440,4,Very High,Provence-Alpes-Côte d'Azur,R,South East
+2022-Q3,G2022,2022,Q3,337,1,Low,Bourgogne-Frenche-Comté,R,West
+2015-Q4,G2015,2015,Q4,636,2,Medium, Bretagne,R,North West
+2015-Q4,G2015,2015,Q4,596,2,Medium,Centre-Val de Loire,R,Central
+2015-Q3,G2015,2015,Q3,2564,4,Very High,Île-de-France,R,North Central
+2020-Q4,G2020,2020,Q4,322,1,Low,Pays de la Loire,R,West
+2020-Q1,G2020,2020,Q1,933,3,High,Nouvelle-Aquitaine,R,South West
+2018-Q2,G2018,2018,Q2,575,2,Medium, Normandie,R,North
+2021-Q3,G2021,2021,Q3,495,2,Medium,Nouvelle-Aquitaine,R,South West
+2017-Q3,G2017,2017,Q3,468,1,Low, Normandie,R,North
+2014-Q1,G2014,2014,Q1,593,2,Medium,Centre-Val de Loire,R,Central
+2014-Q3,G2014,2014,Q3,1231,3,High,Grand Est ,R,North East
+2017-Q1,G2017,2017,Q1,1989,4,Very High, Auvergne-Rhône-Alpes ,R,South East
+2018-Q2,G2018,2018,Q2,3083,4,Very High,Île-de-France,R,North Central
+2023-Q3,G2023,2023,Q3,1003,3,High,Nouvelle-Aquitaine,R,South West
+2015-Q2,G2015,2015,Q2,567,2,Medium,Bourgogne-Frenche-Comté,R,West
+2014-Q3,G2014,2014,Q3,74,1,Low,Corse,R,South
+2021-Q4,G2021,2021,Q4,658,2,Medium,Hauts-de-France,R,North
+2019-Q2,G2019,2019,Q2,3093,4,Very High,Île-de-France,R,North Central
+2021-Q4,G2021,2021,Q4,362,1,Low,Pays de la Loire,R,West
+2018-Q2,G2018,2018,Q2,1564,4,Very High, Auvergne-Rhône-Alpes ,R,South East
+2022-Q2,G2022,2022,Q2,377,1,Low, Bretagne,R,North West
+2016-Q1,G2016,2016,Q1,1405,4,Very High,Nouvelle-Aquitaine,R,South West
+2016-Q1,G2016,2016,Q1,3427,4,Very High,Île-de-France,R,North Central
+2023-Q3,G2023,2023,Q3,954,3,High,Hauts-de-France,R,North
+2017-Q2,G2017,2017,Q2,1072,3,High,Grand Est ,R,North East
+2018-Q4,G2018,2018,Q4,1227,3,High,Nouvelle-Aquitaine,R,South West
+2014-Q4,G2014,2014,Q4,80,1,Low,Corse,R,South
+2024-Q4,G2024,2024,Q4,0,1,Low,Centre-Val de Loire,R,Central
+2021-Q2,G2021,2021,Q2,566,2,Medium,Nouvelle-Aquitaine,R,South West
+2020-Q3,G2020,2020,Q3,722,3,High, Auvergne-Rhône-Alpes ,R,South East
+2017-Q4,G2017,2017,Q4,1041,3,High,Hauts-de-France,R,North
+2019-Q3,G2019,2019,Q3,1262,4,Very High, Auvergne-Rhône-Alpes ,R,South East
+2016-Q4,G2016,2016,Q4,452,1,Low,Centre-Val de Loire,R,Central
+2018-Q4,G2018,2018,Q4,603,2,Medium, Normandie,R,North
+2019-Q2,G2019,2019,Q2,1020,3,High,Occitanie ,R,South
+2016-Q2,G2016,2016,Q2,1234,3,High,Grand Est ,R,North East
+2019-Q3,G2019,2019,Q3,434,1,Low,Bourgogne-Frenche-Comté,R,West
+2018-Q1,G2018,2018,Q1,551,2,Medium, Bretagne,R,North West
+2022-Q1,G2022,2022,Q1,394,1,Low, Normandie,R,North
+2019-Q2,G2019,2019,Q2,399,1,Low,Centre-Val de Loire,R,Central
+2021-Q4,G2021,2021,Q4,301,1,Low,Bourgogne-Frenche-Comté,R,West
+2015-Q3,G2015,2015,Q3,542,2,Medium, Bretagne,R,North West
+2020-Q4,G2020,2020,Q4,546,2,Medium,Hauts-de-France,R,North
+2017-Q3,G2017,2017,Q3,1281,4,Very High, Auvergne-Rhône-Alpes ,R,South East
+2022-Q3,G2022,2022,Q3,2023,4,Very High,Île-de-France,R,North Central
+2014-Q2,G2014,2014,Q2,723,3,High,Pays de la Loire,R,West
+2020-Q4,G2020,2020,Q4,862,3,High, Auvergne-Rhône-Alpes ,R,South East
+2015-Q4,G2015,2015,Q4,1248,3,High,Hauts-de-France,R,North
+2021-Q1,G2021,2021,Q1,260,1,Low, Normandie,R,North
+2022-Q2,G2022,2022,Q2,377,1,Low, Normandie,R,North
+2024-Q4,G2024,2024,Q4,0,1,Low,Occitanie ,R,South
+2022-Q4,G2022,2022,Q4,901,3,High,Grand Est ,R,North East
+2023-Q3,G2023,2023,Q3,2363,4,Very High,Île-de-France,R,North Central
+2024-Q2,G2024,2024,Q2,4167,4,Very High,Île-de-France,R,North Central
+2014-Q2,G2014,2014,Q2,111,1,Low,Corse,R,South
+2023-Q2,G2023,2023,Q2,475,2,Medium, Bretagne,R,North West
+2019-Q1,G2019,2019,Q1,588,2,Medium, Bretagne,R,North West
+2017-Q2,G2017,2017,Q2,627,2,Medium,Pays de la Loire,R,West
+2017-Q2,G2017,2017,Q2,1066,3,High,Hauts-de-France,R,North
+2019-Q2,G2019,2019,Q2,1252,3,High,Provence-Alpes-Côte d'Azur,R,South East
+2019-Q4,G2019,2019,Q4,970,3,High,Hauts-de-France,R,North
+2023-Q3,G2023,2023,Q3,432,1,Low, Bretagne,R,North West
+2020-Q2,G2020,2020,Q2,229,1,Low,Pays de la Loire,R,West
+2019-Q4,G2019,2019,Q4,1066,3,High,Nouvelle-Aquitaine,R,South West
+2019-Q2,G2019,2019,Q2,544,2,Medium, Normandie,R,North
+2022-Q3,G2022,2022,Q3,1073,3,High, Auvergne-Rhône-Alpes ,R,South East
+2023-Q4,G2023,2023,Q4,578,2,Medium,Bourgogne-Frenche-Comté,R,West
+2016-Q2,G2016,2016,Q2,1488,4,Very High,Provence-Alpes-Côte d'Azur,R,South East
+2014-Q3,G2014,2014,Q3,1140,3,High,Hauts-de-France,R,North
+2014-Q3,G2014,2014,Q3,475,2,Medium,Centre-Val de Loire,R,Central
+2017-Q4,G2017,2017,Q4,3141,4,Very High,Île-de-France,R,North Central
+2018-Q2,G2018,2018,Q2,613,2,Medium,Pays de la Loire,R,West
+2024-Q3,G2024,2024,Q3,1429,4,Very High,Provence-Alpes-Côte d'Azur,R,South East
+2019-Q2,G2019,2019,Q2,516,2,Medium, Bretagne,R,North West
+2015-Q3,G2015,2015,Q3,1166,3,High,Nouvelle-Aquitaine,R,South West
+2017-Q4,G2017,2017,Q4,470,1,Low,Centre-Val de Loire,R,Central
+2014-Q4,G2014,2014,Q4,773,3,High,Pays de la Loire,R,West
+2014-Q4,G2014,2014,Q4,1470,4,Very High,Occitanie ,R,South
+2016-Q4,G2016,2016,Q4,1041,3,High,Grand Est ,R,North East
+2021-Q3,G2021,2021,Q3,403,1,Low,Hauts-de-France,R,North
+2022-Q1,G2022,2022,Q1,365,1,Low, Bretagne,R,North West
+2017-Q1,G2017,2017,Q1,678,2,Medium, Normandie,R,North
+2023-Q4,G2023,2023,Q4,1972,4,Very High, Auvergne-Rhône-Alpes ,R,South East
+2019-Q1,G2019,2019,Q1,120,1,Low,Corse,R,South
+2020-Q4,G2020,2020,Q4,625,2,Medium,Nouvelle-Aquitaine,R,South West
+2021-Q4,G2021,2021,Q4,537,2,Medium,Grand Est ,R,North East
+2017-Q4,G2017,2017,Q4,1622,4,Very High, Auvergne-Rhône-Alpes ,R,South East
+2017-Q1,G2017,2017,Q1,540,2,Medium,Centre-Val de Loire,R,Central
+2024-Q1,G2024,2024,Q1,2126,4,Very High, Auvergne-Rhône-Alpes ,R,South East
