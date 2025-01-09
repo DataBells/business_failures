@@ -1,45 +1,45 @@
-﻿YearQuarterId,YearGroupId,Year,Quarter,FailureUnit,Zone,ZoneCategory,Location,LocationCategory,Direction
-2019-Q4,G2019,2019,Q4,396,3,High,Overseas,O,Nil
-2014-Q2,G2014,2014,Q2,392,3,High,Overseas,O,Nil
-2017-Q1,G2017,2017,Q1,350,2,Medium,Overseas,O,Nil
-2015-Q4,G2015,2015,Q4,330,2,Medium,Overseas,O,Nil
-2019-Q2,G2019,2019,Q2,395,3,High,Overseas,O,Nil
-2024-Q2,G2024,2024,Q2,502,4,Very High,Overseas,O,Nil
-2016-Q4,G2016,2016,Q4,393,3,High,Overseas,O,Nil
-2015-Q2,G2015,2015,Q2,369,3,High,Overseas,O,Nil
-2024-Q4,G2024,2024,Q4,0,1,Low,Overseas,O,Nil
-2024-Q3,G2024,2024,Q3,475,4,Very High,Overseas,O,Nil
-2023-Q2,G2023,2023,Q2,435,4,Very High,Overseas,O,Nil
-2018-Q2,G2018,2018,Q2,400,3,High,Overseas,O,Nil
-2015-Q3,G2015,2015,Q3,299,2,Medium,Overseas,O,Nil
-2023-Q4,G2023,2023,Q4,531,4,Very High,Overseas,O,Nil
-2021-Q2,G2021,2021,Q2,243,1,Low,Overseas,O,Nil
-2018-Q4,G2018,2018,Q4,515,4,Very High,Overseas,O,Nil
-2015-Q1,G2015,2015,Q1,362,2,Medium,Overseas,O,Nil
-2022-Q2,G2022,2022,Q2,276,1,Low,Overseas,O,Nil
-2023-Q3,G2023,2023,Q3,391,3,High,Overseas,O,Nil
-2021-Q3,G2021,2021,Q3,198,1,Low,Overseas,O,Nil
-2020-Q1,G2020,2020,Q1,202,1,Low,Overseas,O,Nil
-2019-Q1,G2019,2019,Q1,425,4,Very High,Overseas,O,Nil
-2018-Q1,G2018,2018,Q1,369,3,High,Overseas,O,Nil
-2019-Q3,G2019,2019,Q3,246,1,Low,Overseas,O,Nil
-2016-Q1,G2016,2016,Q1,304,2,Medium,Overseas,O,Nil
-2017-Q4,G2017,2017,Q4,451,4,Very High,Overseas,O,Nil
-2020-Q2,G2020,2020,Q2,198,1,Low,Overseas,O,Nil
-2022-Q1,G2022,2022,Q1,314,2,Medium,Overseas,O,Nil
-2022-Q3,G2022,2022,Q3,297,2,Medium,Overseas,O,Nil
-2020-Q4,G2020,2020,Q4,256,1,Low,Overseas,O,Nil
-2017-Q3,G2017,2017,Q3,274,1,Low,Overseas,O,Nil
-2022-Q4,G2022,2022,Q4,321,2,Medium,Overseas,O,Nil
-2014-Q1,G2014,2014,Q1,412,4,Very High,Overseas,O,Nil
-2023-Q1,G2023,2023,Q1,385,3,High,Overseas,O,Nil
-2024-Q1,G2024,2024,Q1,439,4,Very High,Overseas,O,Nil
-2020-Q3,G2020,2020,Q3,230,1,Low,Overseas,O,Nil
-2016-Q3,G2016,2016,Q3,408,4,Very High,Overseas,O,Nil
-2014-Q3,G2014,2014,Q3,297,2,Medium,Overseas,O,Nil
-2016-Q2,G2016,2016,Q2,362,2,Medium,Overseas,O,Nil
-2014-Q4,G2014,2014,Q4,307,2,Medium,Overseas,O,Nil
-2021-Q1,G2021,2021,Q1,246,1,Low,Overseas,O,Nil
-2017-Q2,G2017,2017,Q2,389,3,High,Overseas,O,Nil
-2018-Q3,G2018,2018,Q3,663,4,Very High,Overseas,O,Nil
-2021-Q4,G2021,2021,Q4,351,2,Medium,Overseas,O,Nil
+﻿YearQuarterId,YearGroupId,Year,Quarter,FailureUnit,Zone,ZoneCategory,Location,Capital,Region,Direction,LocationCategory
+2019-Q4,G2019,2019,Q4,396,3,High,Overseas,Nil,Nil,Nil,O
+2014-Q2,G2014,2014,Q2,392,3,High,Overseas,Nil,Nil,Nil,O
+2017-Q1,G2017,2017,Q1,350,2,Medium,Overseas,Nil,Nil,Nil,O
+2015-Q4,G2015,2015,Q4,330,2,Medium,Overseas,Nil,Nil,Nil,O
+2019-Q2,G2019,2019,Q2,395,3,High,Overseas,Nil,Nil,Nil,O
+2024-Q2,G2024,2024,Q2,502,4,VeryHigh,Overseas,Nil,Nil,Nil,O
+2016-Q4,G2016,2016,Q4,393,3,High,Overseas,Nil,Nil,Nil,O
+2015-Q2,G2015,2015,Q2,369,3,High,Overseas,Nil,Nil,Nil,O
+2024-Q4,G2024,2024,Q4,0,1,Low,Overseas,Nil,Nil,Nil,O
+2024-Q3,G2024,2024,Q3,475,4,VeryHigh,Overseas,Nil,Nil,Nil,O
+2023-Q2,G2023,2023,Q2,435,4,VeryHigh,Overseas,Nil,Nil,Nil,O
+2018-Q2,G2018,2018,Q2,400,3,High,Overseas,Nil,Nil,Nil,O
+2015-Q3,G2015,2015,Q3,299,2,Medium,Overseas,Nil,Nil,Nil,O
+2023-Q4,G2023,2023,Q4,531,4,VeryHigh,Overseas,Nil,Nil,Nil,O
+2021-Q2,G2021,2021,Q2,243,1,Low,Overseas,Nil,Nil,Nil,O
+2018-Q4,G2018,2018,Q4,515,4,VeryHigh,Overseas,Nil,Nil,Nil,O
+2015-Q1,G2015,2015,Q1,362,2,Medium,Overseas,Nil,Nil,Nil,O
+2022-Q2,G2022,2022,Q2,276,1,Low,Overseas,Nil,Nil,Nil,O
+2023-Q3,G2023,2023,Q3,391,3,High,Overseas,Nil,Nil,Nil,O
+2021-Q3,G2021,2021,Q3,198,1,Low,Overseas,Nil,Nil,Nil,O
+2020-Q1,G2020,2020,Q1,202,1,Low,Overseas,Nil,Nil,Nil,O
+2019-Q1,G2019,2019,Q1,425,4,VeryHigh,Overseas,Nil,Nil,Nil,O
+2018-Q1,G2018,2018,Q1,369,3,High,Overseas,Nil,Nil,Nil,O
+2019-Q3,G2019,2019,Q3,246,1,Low,Overseas,Nil,Nil,Nil,O
+2016-Q1,G2016,2016,Q1,304,2,Medium,Overseas,Nil,Nil,Nil,O
+2017-Q4,G2017,2017,Q4,451,4,VeryHigh,Overseas,Nil,Nil,Nil,O
+2020-Q2,G2020,2020,Q2,198,1,Low,Overseas,Nil,Nil,Nil,O
+2022-Q1,G2022,2022,Q1,314,2,Medium,Overseas,Nil,Nil,Nil,O
+2022-Q3,G2022,2022,Q3,297,2,Medium,Overseas,Nil,Nil,Nil,O
+2020-Q4,G2020,2020,Q4,256,1,Low,Overseas,Nil,Nil,Nil,O
+2017-Q3,G2017,2017,Q3,274,1,Low,Overseas,Nil,Nil,Nil,O
+2022-Q4,G2022,2022,Q4,321,2,Medium,Overseas,Nil,Nil,Nil,O
+2014-Q1,G2014,2014,Q1,412,4,VeryHigh,Overseas,Nil,Nil,Nil,O
+2023-Q1,G2023,2023,Q1,385,3,High,Overseas,Nil,Nil,Nil,O
+2024-Q1,G2024,2024,Q1,439,4,VeryHigh,Overseas,Nil,Nil,Nil,O
+2020-Q3,G2020,2020,Q3,230,1,Low,Overseas,Nil,Nil,Nil,O
+2016-Q3,G2016,2016,Q3,408,4,VeryHigh,Overseas,Nil,Nil,Nil,O
+2014-Q3,G2014,2014,Q3,297,2,Medium,Overseas,Nil,Nil,Nil,O
+2016-Q2,G2016,2016,Q2,362,2,Medium,Overseas,Nil,Nil,Nil,O
+2014-Q4,G2014,2014,Q4,307,2,Medium,Overseas,Nil,Nil,Nil,O
+2021-Q1,G2021,2021,Q1,246,1,Low,Overseas,Nil,Nil,Nil,O
+2017-Q2,G2017,2017,Q2,389,3,High,Overseas,Nil,Nil,Nil,O
+2018-Q3,G2018,2018,Q3,663,4,VeryHigh,Overseas,Nil,Nil,Nil,O
+2021-Q4,G2021,2021,Q4,351,2,Medium,Overseas,Nil,Nil,Nil,O
