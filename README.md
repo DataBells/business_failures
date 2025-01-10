@@ -12,18 +12,20 @@ The National Institute of Statistics and Economic Studies (Institut national de 
 ### About Data Types
 | ColumnName    | DataType |
 | -------- | ------- |
-| FailureUnit  | Number   |
-| Year | Date(YYYY)     |
+| FailureUnit  | Int   |
+| Year | Date(YYYY-MM-DD)     |
 | Quarter   | String   |
 | Location  | String  |
 | LocationCategory | String     |
 | YearQuarteId   | String  |
 | YearGroupId | String   |
-| Zone | Number     |
+| Zone | Int     |
 | ZoneCategory   | String   |
 | Direction  | String  |
 | Capital  | String  |
 | Region  | String  |
+| CalandarYear  | Int  |
+
 
 
 <br>
@@ -41,4 +43,5 @@ ZoneCategory: 4 types Low, Medium, High, Very High <br>
 Direction: Direction located in France <br>
 Capital: Capital city of Region, Department or Country<br>
 Region: Regions of France <br>
+CalandarYear: Year extracted from the year column
 ### Update Soon
