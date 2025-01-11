@@ -13,7 +13,7 @@ The National Institute of Statistics and Economic Studies (Institut national de 
 | ColumnName    | DataType |
 | -------- | ------- |
 | FailureUnit  | Int   |
-| Year | Date(YYYY-MM-DD)     |
+| Year | Date(DD-MM-YYYY)     |
 | Quarter   | String   |
 | Location  | String  |
 | LocationCategory | String     |
@@ -35,7 +35,7 @@ FailureUnit: Number of business units failed in each quarter <br>
 Year: Year <br>
 Quarter: One of 4 quarters of the year <br>
 Location: Location in France <br>
-LocationCategory: Category of locations divided into 5 types Region(R), Department(D), Country(C), Overseas(O), Other French Overseas Territories(OFOT) <br>
+LocationCategory: Category of locations divided into 3 types Region(R), Department(D), Country(C) <br>
 YearQuarterId: Group for quarters <br>
 YearGroupId: Group for years <br>
 Zone: In which zone failure units fall <br>
