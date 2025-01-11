@@ -1,1 +1,7 @@
-.ipynb_checkpoints
+#vscode
+.vscode
+# Byte-compiled / optimized / DLL files (boilerplate for gitignore for python project)
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+*$py.class
