@@ -26,8 +26,6 @@ The National Institute of Statistics and Economic Studies (Institut national de 
 | Region  | String  |
 | CalandarYear  | Int  |
 
-
-
 <br>
 
 ### Column Name Description
@@ -44,4 +42,4 @@ Direction: Direction located in France <br>
 Capital: Capital city of Region, Department or Country<br>
 Region: Regions of France <br>
 CalandarYear: Year extracted from the year column
-### Update Soon
+
