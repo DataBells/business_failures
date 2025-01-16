@@ -43,3 +43,9 @@ Capital: Capital city of Region, Department or Country<br>
 Region: Regions of France <br>
 CalandarYear: Year extracted from the year column
 
+### Visualization
+Tableau Link: https://public.tableau.com/app/profile/sandeep.sd/viz/BusinessFailuresFrance2014-2024/Dashboard
+<br>
+Kaggle Link: https://www.kaggle.com/datasets/sandeep1080/business-failures-of-france-2014-2024
+
+
