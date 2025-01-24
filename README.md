@@ -1,6 +1,11 @@
 # business_failures
 Data Project: Number of business failures in each region of France from 2014 to 2024 by date of Judgment - All economic sectors of activities (Data updated on December - 2024 by Insee)
 
+<br>
+
+![Screenshot 2025-01-20 at 12 03 01](https://github.com/user-attachments/assets/1fafb307-92f0-4f24-9252-a419f60ea5fc)
+
+
 ### About DataSet
 The dataset, sourced from insee.fr, has undergone minimal processing. The primary processing involves merging data from multiple files spanning several years and extracting additional information from other sources.
 
